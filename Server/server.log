@@ -1,0 +1,25 @@
+2020-04-14-16:41:16：127.0.0.1:9998 join into the p2p Network Successful
+2020-04-14-16:41:18：127.0.0.1:9999 join into the p2p Network Successful
+From 127.0.0.1':9999
+2020-04-14-16:41:18：The publicDir has Update to verson 1
+2020-04-14-16:43:39：127.0.0.1:9998 join into the p2p Network Successful
+2020-04-14-16:43:41：127.0.0.1:9999 join into the p2p Network Successful
+
+From 127.0.0.1':9999
+2020-04-14-16:43:41：The publicDir has Update to verson 1
+2020-04-14-16:48:11：127.0.0.1:9998 join into the p2p Network Successful
+2020-04-14-16:48:20：127.0.0.1:9999 join into the p2p Network Successful
+
+From 127.0.0.1:9999
+2020-04-14-16:48:20：The publicDir has Update to verson 1
+
+From 127.0.0.1:9999
+2020-04-14-16:48:44：The publicDir has Update to verson 2
+2020-04-14-16:50:55：127.0.0.1:9998 join into the p2p Network Successful
+2020-04-14-16:50:57：127.0.0.1:9999 join into the p2p Network Successful
+
+From 127.0.0.1:9999
+2020-04-14-16:50:57：The publicDir has Update to verson 1
+
+From 127.0.0.1:9998
+2020-04-14-16:52:15：The publicDir has Update to verson 2
